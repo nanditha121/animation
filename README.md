@@ -32,12 +32,12 @@ Step 8: Save and run the application.
 /*
 Program to display animation operation”.
 Developed by: NARRA NANDITHA.
-Registeration Number : 212221240111.
+Registeration Number : 212221040111.
 */
 ```
 #### MainActivity.java
 ```
-package com.manoj.androidanimation;
+package com.example.androidanimation;
 
 import androidx.appcompat.app.AppCompatActivity;
 
